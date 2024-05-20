@@ -1,0 +1,63 @@
+table {
+  border-collapse: collapse;
+  margin-left: 80px;
+
+}
+
+.b1 {
+    width: 72px;
+    height: 57px;
+    background-color: #DADADA;
+}
+.b2 {
+    width: 444px;
+    height: 57px;
+    background-color: #DADADA;
+    text-align:justify;
+    padding-left: 30px;
+}
+.b3 {
+    width:276px ;
+    height:57px;
+    background-color: #DADADA;
+}
+.b4 {
+    width: 251px;
+    height: 57px;
+    background-color: #DADADA;
+}
+.c {
+    color: #FF0000;
+    text-align: center;
+}
+.d {
+    text-align: center;
+
+
+}
+.E {
+    text-align: center;
+}
+.btn {
+    background-color: #FFD43A; 
+    width: 115px;
+    height: 36px;
+    border: #FFD43A;
+}
+.td {
+    padding:10px;
+    padding-left: 30px;
+}
+h3 {
+    padding-left: 80px;
+}
+@font-face {
+    font-family: "inter fonts";
+    src: url("New fonts/Inter-Regular.ttf");
+}
+table {
+    font-family: "inter fonts";
+}
+h3 {
+    font-family: "inter fonts";
+}
